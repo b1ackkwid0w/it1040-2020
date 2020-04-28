@@ -13,7 +13,7 @@
 
 > [amyasnell@mail.missouri.edu](mailto:amyasnell@mail.missouri.edu)
 
-> [Linked-In profile](www.linkedin.com/in/amy-a-snell-485434193)
+> [Linked-In profile](http://www.linkedin.com/in/amy-a-snell-485434193)
 
 
 
