@@ -16,7 +16,7 @@
 
 > [CURRENT PROJECTS](projects.md)
 
-> [ABOUT ME](about_me.md)
+> [ABOUT ME](aboutme.md)
 
 > [VIEW RESUME](resume-online.md)
 
