@@ -8,7 +8,7 @@
 
 ---
 
-> ### MY PERSONAL GOALS
+> ### MY GOALS
 
 * My Professional Goals
 
