@@ -24,9 +24,9 @@ In addition to playing the French horn, I also enjoy participating in my Relay f
 
 I am so excited to learn more about information technologies and continue to develop coding skills. Thank you for taking the time to read about me. Take a look at a few projects I'm working on, and my goals going forward:
 
-* [PROJECTS](https://github.com/b1ackkwid0w/it1040-2020/projects.md)
+* [PROJECTS](projects.md)
 
-* [PERSONAL GOALS](https://github.com/b1ackkwid0w/it1040-2020/goals.md)
+* [PERSONAL GOALS](goals.md)
 
 ---
 
