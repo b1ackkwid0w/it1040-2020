@@ -62,4 +62,4 @@ Volunteer Experience
     
 ---
 
-[HOME](https://github.com/b1ackkwid0w/it1040-2020)
+[HOME](README.md)
