@@ -36,7 +36,7 @@ I am so excited to learn more about information technologies and continue to dev
 
 ---
 
-[HOME](readme.md)
+[HOME](README.md)
 
 
 
