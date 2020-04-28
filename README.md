@@ -14,7 +14,7 @@
 
 
 
-> [CURRENT PROJECTS](https://github.com/b1ackkwid0w/it1040-2020/projects.md)
+> [CURRENT PROJECTS](projects.md)
 
 > [ABOUT ME](https://github.com/b1ackkwid0w/it1040-2020/about_me.md)
 
