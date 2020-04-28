@@ -22,7 +22,7 @@ In addition to playing the French horn, I also enjoy participating in my Relay f
 
 * [Tiny Bubbles Relay Team](https://www.facebook.com/rfltinybubbles/)
 
-I am so excited to learn more about information technologies and continue to develop coding skills. Thank you for taking the time to read about me. Take a look at a few projects I'm working on, and my goals going forward:
+I am so excited to learn more about information technologies and continue to develop my coding skills. Thank you for taking the time to read about me. Take a look at a few projects I'm working on, and my goals going forward:
 
 * [PROJECTS](projects.md)
 
