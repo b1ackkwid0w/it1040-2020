@@ -20,4 +20,4 @@
 
 > [VIEW RESUME](resume-online.md)
 
-> [PERSONAL GOALS](goals.md)
+> [MY GOALS](goals.md)
